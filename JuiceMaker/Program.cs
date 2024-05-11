@@ -10,11 +10,13 @@ namespace DrinkMachine
         private static void Main()
         {
             Console.WriteLine("Welcome to our drink machine! Here's what we're offering today:" + Environment.NewLine);
+
             var drinkService = new DrinkService();
             drinkService.DisplayDrinks();
 
             bool validSelection = false;
             int attempts = 0;
+
             while (!validSelection)
             {
                 int selection = UserInteraction.GetUserSelection(drinkService.GetAllDrinks(), attempts > 0);
@@ -35,7 +37,8 @@ namespace DrinkMachine
                 }
                 attempts++;
             }
-            Console.Read(); // Keep the console open
+
+            Console.Read();
         }
     }
 }

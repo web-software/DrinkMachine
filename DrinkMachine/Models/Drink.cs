@@ -1,4 +1,4 @@
-﻿using JuiceMaker.Interfaces;
+﻿using DrinkMachine.Interfaces;
 
 namespace DrinkMachine.Models
 {

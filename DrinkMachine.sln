@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrinkMachine", "JuiceMaker\DrinkMachine.csproj", "{B24D720B-99E6-476A-AA03-260FD1E47937}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrinkMachine", "DrinkMachine\DrinkMachine.csproj", "{B24D720B-99E6-476A-AA03-260FD1E47937}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

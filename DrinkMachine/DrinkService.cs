@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using DrinkMachine.Interfaces;
 using DrinkMachine.Models;
-using JuiceMaker.Interfaces;
 
-namespace JuiceMaker.Services
+namespace DrinkMachine.Services
 {
     public class DrinkService
     {

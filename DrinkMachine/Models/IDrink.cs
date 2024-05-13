@@ -1,4 +1,4 @@
-﻿namespace JuiceMaker.Interfaces
+﻿namespace DrinkMachine.Interfaces
 {
     public interface IDrink
     {

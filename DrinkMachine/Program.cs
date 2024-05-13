@@ -1,7 +1,6 @@
 ﻿using System;
-using JuiceMaker;
-using JuiceMaker.Interfaces;
-using JuiceMaker.Services;
+using DrinkMachine.Interfaces;
+using DrinkMachine.Services;
 
 namespace DrinkMachine
 {

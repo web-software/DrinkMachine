@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using JuiceMaker.Interfaces;
+using DrinkMachine.Interfaces;
 
-namespace JuiceMaker
+namespace DrinkMachine
 {
     public static class UserInteraction
     {
